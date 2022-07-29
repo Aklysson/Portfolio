@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/portfolio/static/js/main.c0e7d95e.js",
+    "static/media/lindo2.jpg": "/portfolio/static/media/lindo2.b15f26fbfadb6e10e976.jpg",
+    "static/media/Curriculo_att.jpg": "/portfolio/static/media/Curriculo_att.58c330bce6a5364fa4ff.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.c0e7d95e.js.map": "/portfolio/static/js/main.c0e7d95e.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c0e7d95e.js"
+  ]
+}
